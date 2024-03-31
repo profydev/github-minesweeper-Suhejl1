@@ -1,3 +1,9 @@
 {
-  "commands": []
+  "commands": [
+    {
+      "action": "uncover",
+      "x": 0,
+      "y": 0
+    }
+  ]
 }
